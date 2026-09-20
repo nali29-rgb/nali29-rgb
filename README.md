@@ -2,13 +2,13 @@
 
 🎓 **CS & Math Student @ Colby College** ('28)  
 🔬 **Pulver Science Scholar & Dana Scholar**  
-⚛️ **Quantum Computing & AI Researcher** at the INSITE Lab
+⚛️ **Independent Quantum Computing Researcher** & **INSITE Lab Undergraduate Research Assistant**
 
 ---
 
 ### 🔬 Research & Technical Interests
-- **Quantum Computing:** Quantum Error Mitigation & Error Correction using Qiskit for NISQ-era architectures.
-- **Machine Learning & Robotics:** Spatial reasoning models, autonomous quadruped navigation, and human-robot interaction.
+- **Quantum Computing (Independent Research):** Quantum Error Mitigation & Error Correction using Qiskit for NISQ-era architectures.
+- **Machine Learning & Robotics (INSITE Lab):** Spatial reasoning models, autonomous quadruped navigation, and human-robot interaction for Blind and Low Vision (BLV) navigators.
 
 ---
 
