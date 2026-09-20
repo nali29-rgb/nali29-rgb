@@ -1,6 +1,6 @@
 # Hi there, I'm Nabeela Ali 👋
 
-🎓 **CS & Math Student @ Colby College** ('28)  
+🎓 **CS & Math Student @ Colby College** ('29)  
 🔬 **Pulver Science Scholar & Dana Scholar**  
 ⚛️ **Independent Quantum Computing Researcher** & **INSITE Lab Undergraduate Research Assistant**
 
