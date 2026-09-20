@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Nabeela Ali 👋
 
-<!--
-**nali29-rgb/nali29-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **CS & Math Student @ Colby College** ('28)  
+🔬 **Pulver Science Scholar & Dana Scholar**  
+⚛️ **Quantum Computing & AI Researcher** at the INSITE Lab
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research & Technical Interests
+- **Quantum Computing:** Quantum Error Mitigation & Error Correction using Qiskit for NISQ-era architectures.
+- **Machine Learning & Robotics:** Spatial reasoning models, autonomous quadruped navigation, and human-robot interaction.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, C++, SQL, HTML/CSS
+- **Quantum & AI Frameworks:** Qiskit, PyTorch, TensorFlow, Scikit-learn
+- **Tools & Platforms:** Git/GitHub, Jupyter Notebooks, Linux, IBM Quantum Hardware
+
+---
+
+### 📌 Current Projects
+- ⚛️ **[Quantum Projects with Qiskit](https://github.com/nali29-rgb/Quantum-Projects-with-Qiskit):** Hands-on implementations of quantum algorithms, error mitigation, and circuit execution on IBM Quantum systems.
+
+---
+
+📫 **Connect with me:**  
+- [LinkedIn](https://linkedin.com/in/ali-nabeela)  
+- Email: nali29@colby.edu
